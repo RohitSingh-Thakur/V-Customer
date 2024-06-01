@@ -1,4 +1,3 @@
-* LomBok DONE
 Create Entity Customer with below Fields DONE
 
 	private Long patientId;
@@ -16,11 +15,18 @@ Create Entity Customer with below Fields DONE
 	private String street;
 	private String pincode;
 	private LocalDate registerDate;
-	
-* Perform Bean Validations DONE
-* Global Exception Handling For Fields DONE
-* Swagger <All Annotations> DONE
-* LOG4J
+
+* LomBok -------------------------------------------> DONE
+* Perform Bean Validations -------------------------> DONE
+* Global Exception Handling For Fields -------------> DONE
+* Swagger <All Annotations> ------------------------> DONE
+* YML File  
+	Constant Messages ------------------------------> DONE
+	Endpoint urls
+	Status Codes
+* LOG4J --------------------------------------------> DONE
+
+
 * ModelMapper <Custom Class and Autowired> 
 * SonarQube
 * Jacoco
@@ -34,7 +40,6 @@ Create Entity Customer with below Fields DONE
 * Jasper
 * Stored Procedures, Triggers, Native Query, Named Query, Functions
 * File Handling
-* Yml file for Constant Messages, Endpoint urls, status codes
 * Pagination
 * Spring Security, Spring Batch, Spring Profiling
 * @Value, @Primary, @Qualifier
