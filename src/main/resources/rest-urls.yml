@@ -1,0 +1,32 @@
+app:
+  FieldsConstants:
+      firstNameIsEmpty: First Name Shoud Not Be Empty
+      firstNameLenght: First Name Shoud be Between 2 to 20 charachters Or Invalid Name Entered... Digits and Special Symbol Not Allwed
+      lastNameIsEmpty: Last Name Shoud Not Be Empty
+      lastNameLenght: Last Name Shoud be Between 2 to 20 charachters Or Invalid Name Entered... Digits and Special Symbol Not Allwed
+      statusIsEmpty: Status Shoud Not Be Empty
+      statusLength: Status Shoud be Between 2 to 20 charachters || Status Shoud be either [Active] Or [Inactive]
+      statusContainsDigitOrSymbol: Digits and Special Symbol Not Allwed
+      emailIdIsEmpty: Email ID Should Not Be Empty
+      emailIdLenght: Please Enter Valid Email ID
+      mobileNumberIsEmpty: Mobile Number Should Not Be Empty
+      mobileNumberCheck: Please Enter Valid Mobile Number -> Start with 7, 8, or 9 & Should contain 10 digitd & Should not contains non-numeric and special characters & 
+      bloodGroupIsEmpty: Blood Group Should Not Be Empty
+      bloodGroupInvalid: Invalid Blood Group Entered. Valid Groups are [A, A+, A-, B, B+, B-, AB, AB+, AB-, O, O+, O-]
+      aadharNumberIsEmpty: Aadhaar Number Should Not Be Empty
+      aadharNumberCheck: The ID does not contain alphabetic or special characters. The ID consists of three groups of four numbers, with a space separating each group of four. The ID does not start with either 0 or 1 e.g => [1111 1111 1111]
+      panNumberIsEmpty: Pan Number Should Not Be Empty
+      panNumberInvalid: Invalid Pan Number... Plese Enter In [AAAAA1111A] = first 5 charachter then 4 digit and 1 charachter
+      dateOfBirthIsEmpty: Birth Date Should Not Be Empty
+      dateOfBirthInvalid: Invalid Birth Date... Only Current or Past Date is allowd || Please Use Follow Format [yyyy-MM-dd]
+      cityIsEmpty: City Should Not Be Empty
+      cityLength: Invalid Name Entered... City Shoud be Between 2 to 20 charachters Or Should not starts with space || Should Not Contains More than one white space between words || Should not contains Only white space
+      streetIsEmpty: Street Should Not Be Empty
+      streetLength: Invalid Name Entered... Street Shoud be Between 2 to 100 charachters Or Should not starts with space || Should Not Contains More than one white space between words || Should not contains Only white space
+      pinCodeIsEmpty: Pin Code Should Not Be Empty
+      pinCodeCheck: Invalid Pin Code Entered... Pin Code Shoud contains 6 digits. Should not starts with space, 0, 1, non-digit character, special symbol
+      
+      
+      
+      
+      

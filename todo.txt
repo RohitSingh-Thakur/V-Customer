@@ -1,0 +1,76 @@
+* LomBok DONE
+Create Entity Customer with below Fields DONE
+
+	private Long patientId;
+	private String firstName;
+	private String lastName;
+	private String status;
+	private String emailId;
+	private String mobileNumber;
+	private String bloodGroup;
+	private String aadharNumber;
+	private String panNumber;
+	private LocalDate dateOfBirth;
+	private String age;
+	private String city;
+	private String street;
+	private String pincode;
+	private LocalDate registerDate;
+	
+* Perform Bean Validations DONE
+* Global Exception Handling For Fields DONE
+* Swagger <All Annotations> DONE
+* LOG4J
+* ModelMapper <Custom Class and Autowired> 
+* SonarQube
+* Jacoco
+* Junit & Mockito
+* Sent Emails SMTP <All Records, specific records>
+* Import Data from XML/PDF/TEXT files 
+* Export Data In XML/PDF/TEXT files On Mail
+* Cache <HashMap,Schedular,corn exp,Redis>
+* Multiple Databases <MySQL,SQL SERVER>
+* Custom Annotations 
+* Jasper
+* Stored Procedures, Triggers, Native Query, Named Query, Functions
+* File Handling
+* Yml file for Constant Messages, Endpoint urls, status codes
+* Pagination
+* Spring Security, Spring Batch, Spring Profiling
+* @Value, @Primary, @Qualifier
+* Stream API, Lambda Expression, Optional Class
+* Apache POI
+* Images
+* SureFire(Bills)
+* Mappings
+* Transaction and roll back
+* HTTP Status Codes In Application.properties file
+* JSON/XML Content Negotiation
+
+Connect Application to SQL Server and Perform CRUD Operations 
+
+* CREATE
+* UPDATE
+* DELETE
+* READ => 
+fetchAllCustomers
+fetchCustomerById
+fetchCustomerByName
+fetchCustomerByStatus
+fetchCustomerByEmail
+fetchCustomerByBloodGroup
+fetchCustomerByAadharNumber
+fetchCustomerByPanNumber
+fetchCustomerByDOB
+fetchCustomerByAge
+fetchCustomerByCity
+fetchCustomerByStreet
+fetchCustomerByPinCode
+fetchCustomerByRegisterdDate
+
+
+===========================================================
+add jason to xml and xml to json coverter in createcustomer method 
+
+
+

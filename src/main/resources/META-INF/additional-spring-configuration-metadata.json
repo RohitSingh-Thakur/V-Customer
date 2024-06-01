@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "external.api.endpoints.createCustomer",
+  "type": "java.lang.String",
+  "description": "A description for 'external.api.endpoints.createCustomer'"
+}]}
