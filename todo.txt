@@ -23,7 +23,7 @@ Create Entity Customer with below Fields DONE
 * YML File  
 	Constant Messages ------------------------------> DONE
 	Endpoint urls
-	Status Codes
+	Status Codes -----------------------------------> PENDING
 * LOG4J --------------------------------------------> DONE
 
 

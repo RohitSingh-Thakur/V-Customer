@@ -27,8 +27,6 @@ public class CustomerDto {
 	@ApiModelProperty(hidden = true)
 	private Long patientId;
 	
-	//  "{app.FieldsConstants.XXXXXXXXXXXXXXXX}"
-
 	@NotBlank(message = "{app.FieldsConstants.firstNameIsEmpty}")
 	@Length(min = 2, max = 20, message = "{app.FieldsConstants.firstNameLenght}")
 	@Pattern(regexp = GlobalRegex.stringNotContainsDigit, message = "{app.FieldsConstants.firstNameLenght}")
