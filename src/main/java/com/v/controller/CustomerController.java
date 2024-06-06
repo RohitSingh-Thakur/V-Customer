@@ -2,6 +2,7 @@ package com.v.controller;
 
 import javax.validation.Valid;
 
+import com.v.entity.Customer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
